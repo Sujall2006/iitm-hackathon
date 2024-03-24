@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409081570382",
+    "project_id": "iit-ev",
+    "storage_bucket": "iit-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409081570382:android:7a798f1627f4238b77cf1f",
+        "android_client_info": {
+          "package_name": "com.example.evflutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4OrnItwWfYbBv8WopoDsFUuprE9QWrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
